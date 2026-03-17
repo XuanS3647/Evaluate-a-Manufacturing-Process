@@ -130,7 +130,7 @@ Integrating the analysis into a real-time monitoring dashboard
 
 Automating alerts for manufacturing teams
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 SQL
 
